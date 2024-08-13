@@ -1,0 +1,1 @@
+In this project im gonna build a very simple recipes site, with scarce HTML but abundant in love.
